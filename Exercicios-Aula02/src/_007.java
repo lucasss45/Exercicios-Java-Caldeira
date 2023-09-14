@@ -6,7 +6,8 @@ public class _007 {
             Scanner ler = new Scanner(System.in);
             int espartanos = 300; // Supondo que o número de espartanos seja 300 (pode ser alterado)
 
-            for (;;) {
+            boolean t = true;
+            while (t) {
                 System.out.println("Quantos Soldados Espartanos você acha que vai enfrentar?");
                 int palpite = ler.nextInt();
 
@@ -16,10 +17,12 @@ public class _007 {
                     System.out.println("O número de espartanos é menor do que você previu.");
                 } else {
                     System.out.println("Parabéns Soldado, você venceu!!!");
-                    break; // Sai do loop quando o palpite for correto
+                    t = false;
                 }
             }
 
             ler.close();
         }
     }
+
+
