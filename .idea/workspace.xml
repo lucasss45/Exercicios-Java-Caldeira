@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68143da8-0ae0-43b0-8bc6-199fbf3bda1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aula02/001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula02/teste" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula02/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-Aula04/src/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula04/src/_001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula04/src/_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Aula04/src/carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula04/src/_007.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Aula04/src/Moto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +22,12 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2VJEN2xBo93riDNif8Lj55aci5U" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,7 +37,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
   <component name="RecentsManager">
