@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68143da8-0ae0-43b0-8bc6-199fbf3bda1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula04/src/Veiculo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Aula04/src/_001.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Aula04/src/_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Aula04/src/carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Aula04/src/_007.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Aula04/src/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula05/src/_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Aula05/src/_001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
