@@ -1,5 +1,5 @@
-public class tarefa {
-    public tarefa(String nome, String descricao, String data) {
+public class Tarefa {
+    public Tarefa(String nome, String descricao, String data) {
         this.nome = nome;
         this.descricao = descricao;
         this.data = data;
@@ -10,3 +10,4 @@ public class tarefa {
 
     }
 
+//

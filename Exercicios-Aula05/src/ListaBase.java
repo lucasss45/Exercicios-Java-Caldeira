@@ -1,19 +1,28 @@
 import java.util.ArrayList;
 import java.util.List;
 
-//criar uma lista de tarefas. O programa deve permitir adicionar
-// tarefas à lista, remover tarefas e exibir todas as tarefas na lista.
-public class ListaBase{
+public class ListaBase {
 
-    private List<tarefa> lista = new ArrayList<>();
+    private List<Tarefa> lista = new ArrayList<>();
 
-    public <lista> List<tarefa> ImprimeTudo(lista) {
+    public List<Tarefa> getLista() {
         return lista;
     }
-    public int Apaga(Object item) {
-        lista.remove(item);
+
+    public void adicionar(Tarefa tarefa) {
+        lista.add(tarefa);
     }
-    public void Adiciona( item){
-        lista.add(item);
+
+    public void remover(Tarefa tarefa) {
+        lista.remove(tarefa);
+    }
+
+    public void imprimirTodas() {
+        for (Tarefa tarefa : lista) {
+            System.out.println("Nome: " + tarefa.nome);
+            System.out.println("Descrição: " + tarefa.descricao);
+            System.out.println("Data: " + tarefa.data);
+            System.out.println();
+        }
     }
 }
