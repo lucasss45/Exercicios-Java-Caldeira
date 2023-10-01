@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68143da8-0ae0-43b0-8bc6-199fbf3bda1d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Aula02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Aula02/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios-Aula05/src/_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios-Aula05/src/_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/Exercicios-Aula02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/src/_001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/src/_002.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/src/_003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/src/_004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/src/_005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/src/_006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula03/src/_007.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
