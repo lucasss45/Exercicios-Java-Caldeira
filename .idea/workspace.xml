@@ -5,47 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68143da8-0ae0-43b0-8bc6-199fbf3bda1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/src/main/java/com/atividades/exe001/API/ConsumoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/src/main/java/com/atividades/exe001/Exe001Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe002/src/test/java/com/atividades/exe001/Exe001ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/src/main/java/com/atividades/exe001/API/ConsumoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/src/main/java/com/atividades/exe001/Exe001Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe003/src/test/java/com/atividades/exe001/Exe001ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/src/main/java/com/atividades/exe001/API/ConsumoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/src/main/java/com/atividades/exe001/Exe001Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe004/src/test/java/com/atividades/exe001/Exe001ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/src/main/java/com/atividades/exe001/API/ConsumoAPI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/src/main/java/com/atividades/exe001/Exe001Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios-Aula00/exe005/src/test/java/com/atividades/exe001/Exe001ApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios-Aula-3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teste/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2/src/main/java/org/example/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,15 +46,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Win10/Documents/Exercicios-Java-Caldeira/Exercicios-Aula00",
-    "run.code.analysis.last.selected.profile": "pProject Default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Win10/Documents/Exercicios-Java-Caldeira/Exercicios-Aula00&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Win10\Documents\Exercicios-Java-Caldeira\Exercicios-Aula00" />
